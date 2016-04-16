@@ -6,7 +6,7 @@ Learn how to use this plugin on its demo page at <http://dfcb.github.com/BigVide
 This project is no longer under active development. Much has changed since the summer of 2012 when BigVideo.js was launched. For more current information on implementing video backgrounds, check out these links:
 
 - CSS Tricks - [Should I use a video as a background?](https://css-tricks.com/should-i-use-a-video-as-a-background/)
-- Dudley Storey - [Create Fullscreen HTML5 Page Background Video](http://thenewcode.com/777/Create-Fullscreen-HTML5-Page-Background-Video)
+ Video](http://thenewcode.com/777/Create-Fullscreen-HTML5-Page-Background-Video)
 - [Vide](http://vodkabears.github.io/vide/) - Easy as hell jQuery plugin for video backgrounds
 
 If you are interested in taking over the project, ping me at <a href="https://twitter.com/johnpolacek">@johnpolacek</a></p>
